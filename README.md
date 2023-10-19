@@ -23,6 +23,6 @@
   <a href = "mailto:emanuelbf19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-fortes-706435245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-![Snake animation](profile-3d-contrib/profile-night-rainbow.svg)
+![Snake animation](profile-3d-contrib/profile-night-green.svg)
 
 </div>
