@@ -2,7 +2,7 @@
 
 <h2 align="center"><i>Ｓｏｂｒｅ</i></h2>
 <div align="center">
-  <img align="right" src="./images/guga_cyberpunk-04.png" width="313px" height="313px" alt="">
+  <img align="right" src="./images/emanuel-forte-1.png" width="313px" height="400px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li> Tecnologia, Bateria🥁 e códigos. </li><br>
@@ -14,7 +14,7 @@
   <br><br>
 
 <h2 align="center"><i>Ｔｅｃｎｏｌｏｇｉａ s</i></h2>
-<img align="left" height="275px" width="275px" alt="" src="./images/guga_cyberpunk-03.png" />
+<img align="left" height="275px" width="275px" alt="" src="./images/emanuel-fortes-3.png" />
 <table align="right" height="290px" width="1000px" style="width: 650px; padding: 5px 0px 5px 5px;">
   <tr>
     <td align="center">
@@ -89,7 +89,7 @@
 <br><br><br><br>
 
 <h2 align="center"><i>Ｃｏｎｔａｔｏ</i> </h2>
-<img align="left" width="220px" height="180px" src="./images/cyber-02.png" alt=" coding">
+<img align="left" width="180px" height="220px" src="./images/emanuel-fortes-2.jpg" alt=" coding">
 <br><br>
 <div aling="right">
 <a href="https://www.instagram.com/emanuel_fortes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
